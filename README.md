@@ -22,6 +22,18 @@ and I have experience collaborating with cross-functional teams to achieve proje
 I am passionate about technology and innovating solutions that improve user experience and meet the market's evolving needs.
  I constantly strive to develop my skills and stay updated with the latest technologies in app development to ensure that I deliver effective technical solutions.
 
+<!-- Let's Connect..! -->
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+[![Youtueb Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/maimounemohamedamine9336) 
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-maymoune/) 
+[![Facebook Badge](https://img.shields.io/badge/-@MohamedAmineMaymoune-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.Facebook.com/mohamedamine.sahmim/)
+[![Mail Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maymounemohamedamine@gmail.com)
+
+
+
+
+
 <!--
 **MohamedAmineMaymoune/MohamedAmineMaymoune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
