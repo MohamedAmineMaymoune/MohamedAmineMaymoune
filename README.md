@@ -56,7 +56,11 @@ I am passionate about technology and innovating solutions that improve user expe
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaminemaymoune&show_icons=true&locale=en&layout=compact" alt="mohamedaminemaymoune" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedaminemaymoune&show_icons=true&locale=en" alt="mohamedaminemaymoune" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaminemaymoune&" alt="mohamedaminemaymoune" /></p>
 
 
 <!--
