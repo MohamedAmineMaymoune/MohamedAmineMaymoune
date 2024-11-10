@@ -37,7 +37,7 @@ I am passionate about technology and innovating solutions that improve user expe
 
 <!-- Skills  -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>s
+<br>
 
 [![Php Badge](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#) 
 [![Laravel Badge](https://img.shields.io/badge/-Larvel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#) 
