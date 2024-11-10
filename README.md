@@ -52,6 +52,11 @@ I am passionate about technology and innovating solutions that improve user expe
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#)
 [![github Badge](https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=blue&logo=github&logoColor=181717)](#)
 
+<!-- Github Stats   -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+
 
 
 <!--
