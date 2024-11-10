@@ -45,12 +45,13 @@ I am passionate about technology and innovating solutions that improve user expe
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Html5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
-
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-
-
-
+[![css3 Badge](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)
+[![mysql Badge](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=white&logo=mysql&logoColor=4479A1)](#)
+[![mongodb Badge](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#)
+[![github Badge](https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=blue&logo=github&logoColor=181717)](#)
+[![angular Badge](https://img.shields.io/badge/-angular-0F0F11?style=for-the-badge&labelColor=white&logo=angular&logoColor=0F0F11)](#)
 
 
 <!--
