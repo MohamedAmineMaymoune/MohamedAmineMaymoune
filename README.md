@@ -16,11 +16,9 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Mohamed Amine Maymoune a Web Developer 💻 with over seven years of experience using PHP with Framworks to design and develop applications. 
-I focus on creating seamless user interfaces and high-performance applications, 
-and I have experience collaborating with cross-functional teams to achieve project goals. 
-I am passionate about technology and innovating solutions that improve user experience and meet the market's evolving needs.
- I constantly strive to develop my skills and stay updated with the latest technologies in app development to ensure that I deliver effective technical solutions.
+I'm Mohamed Amine Maymoune a Full-stack Web Developer 💻. 
+A passionate about frontend and backend developement, technology and innovating solutions that improve user experience and meet the market's evolving needs.
+I constantly strive to develop my skills and stay updated with the latest technologies in app development to ensure that I deliver effective technical solutions.
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
