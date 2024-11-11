@@ -62,6 +62,7 @@ I am passionate about technology and innovating solutions that improve user expe
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaminemaymoune&&theme=algolia" alt="mohamedaminemaymoune" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center" >
 
 <!-- Choose Language -->
@@ -73,6 +74,7 @@ I am passionate about technology and innovating solutions that improve user expe
 | [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--
 **MohamedAmineMaymoune/MohamedAmineMaymoune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
