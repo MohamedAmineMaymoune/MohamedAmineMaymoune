@@ -23,7 +23,7 @@ I constantly strive to develop my skills and stay updated with the latest techno
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Youtueb Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/maimounemohamedamine9336) 
+[![Youtueb Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@maimounemohamedamine9336) 
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-maymoune/) 
 [![Facebook Badge](https://img.shields.io/badge/-@MohamedAmineMaymoune-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.Facebook.com/mohamedamine.sahmim/)
