@@ -76,6 +76,36 @@ I am passionate about technology and innovating solutions that improve user expe
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+Credit: [MohamedAmineMaymoune](https://github.com/MohamedAmineMaymoune) 
+
+Last Edited on: 03/09/2024
+<details> 
+  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
+  <div>
+  <samp>
+      <br/>
+            <p align="center">
+      </p>
+        <p align="center">
+          <a href="https://github.com/MohamedAmineMaymoune/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAmineMaymoune&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedAmineMaymoune&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+    <br>
+
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAmineMaymoune&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+
+<br>
+</details>
+
+
+
 <!--
 **MohamedAmineMaymoune/MohamedAmineMaymoune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
