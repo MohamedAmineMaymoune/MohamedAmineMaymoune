@@ -24,8 +24,7 @@ I constantly strive to develop my skills and stay updated with the latest techno
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 [![Youtueb Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@maimounemohamedamine9336) 
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-maymoune/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-maymoune/) <br>
 [![Facebook Badge](https://img.shields.io/badge/-@MohamedAmineMaymoune-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.Facebook.com/mohamedamine.sahmim/)
 [![Mail Badge](https://img.shields.io/badge/-MohamedAmineMaymoune-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maymounemohamedamine@gmail.com)
 
